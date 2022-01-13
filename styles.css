@@ -1,0 +1,25 @@
+
+/* Title image */
+
+.title-img {
+  width: 60%;
+  transform: rotate(25deg);
+  margin-left: 60px;
+  padding: 5%;
+}
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.icon {
+  margin-bottom: 1.5rem;
+  color: #ef8172;
+}
+
+.icon:hover {
+  color: #ff4c68;
+}
